@@ -1,0 +1,13 @@
+{
+  "name": "chat-demo",
+  "version": "1.0.0",
+  "description": "2人实时聊天 Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
